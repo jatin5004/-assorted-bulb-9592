@@ -1,7 +1,7 @@
 nav{
     height: 90%;
     height: 80px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     justify-content: space-between;
     
@@ -29,7 +29,7 @@ nav>div>img{
 .menu{
     height: 50px;
     display: flex;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .menu>div{
     width: 65%;
@@ -47,7 +47,7 @@ nav>div>img{
     font-weight: 600;
 }
 .video{
-   border: 1px solid red;
+   /* border: 1px solid red; */
    height: 500px;
    display: flex;
    /* justify-content: space-between; */

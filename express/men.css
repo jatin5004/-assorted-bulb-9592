@@ -63,6 +63,7 @@ nav>div>img{
     background-image: url(sweaters-dt.webp);
     background-size: cover;
     
+    
 }
 .v1>h2{
     margin-top: 300px;
@@ -91,7 +92,7 @@ nav>div>img{
     /* border: 1px solid black; */
     /* margin-left: 500px; */
     width: 50%;
-    background-image: url(wlp-mm-dt.webp);
+    background-image: url(0102-new-dt_03-05.webp);
     background-size: cover;
 }
 .cloths{
@@ -392,6 +393,7 @@ nav>div>img{
 .we>div>img{
     width: 93%;
     margin: auto;
+    height: 415px;
     margin-left: 12px;
     /* text-align: center; */
 }
@@ -402,7 +404,7 @@ nav>div>img{
     color: black;
 }
 .neck>img{
-height: 475px;
+height: 415px;
 }
 .label>button{
     margin-left: 50%;
@@ -412,4 +414,7 @@ height: 475px;
     background: transparent;
     /* font-weight: 600; */
     font-size: 16px;
+}
+.we1>img{
+    height: 415px;
 }
